@@ -1,8 +1,6 @@
 package kata5;
 
-import java.util.Arrays;
 import java.util.HashMap;
-import java.util.Map;
 
 public class Greed {
     public static int greedy(int[] dice) {
