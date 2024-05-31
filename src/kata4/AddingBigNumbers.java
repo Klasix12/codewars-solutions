@@ -1,6 +1,6 @@
 package kata4;
 
-public class Kata {
+public class AddingBigNumbers {
     public static String add(String a, String b) {
         StringBuilder sb = new StringBuilder();
         int maxLength = Math.max(a.length(), b.length());
