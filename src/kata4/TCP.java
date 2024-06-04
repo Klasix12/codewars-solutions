@@ -4,7 +4,7 @@ import java.util.HashMap;
 import java.util.Map;
 
 // codewars.com/kata/54acc128329e634e9a000362
-public class FSM {
+public class TCP {
     private static Map<String, String> stateTransitions = new HashMap<>();
 
     public static String traverseStates(String[] events) {
